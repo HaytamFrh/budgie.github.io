@@ -18,8 +18,9 @@
 	"admob_banner4":"",
 	"admob_inter4":"",
 
-	"facebook_banner":"",
-	"facebook_inter":"",
+
+	"facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook_inter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
 	
 	"whichAds":1,
